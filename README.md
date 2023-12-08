@@ -1,16 +1,16 @@
-### Hi there 👋
+```js
+Olá! bem-vindo ao meu perfil";
 
-<!--
-**xsayog/xsayog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "gabriela moreira";
+  area = "engenharia de sofware";
+  local = "rio de janeiro";   
+  email = "artquilustra@gmail.com";
+}
 
-Here are some ideas to get you started:
+```
+<img src="https://user-images.githubusercontent.com/74029212/127240963-4921a6aa-a682-4868-9ce5-a9ca6936c8fc.gif" alt="Gif_Gato_teclando" min-width="200px" max-width="200px" width="200px" align="right">
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-moreira-150581265/" alt="LinkedIn"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
