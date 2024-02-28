@@ -8,9 +8,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 <p>🚀 Meu coração pulsa por Análise e Desenvolvimento de Sistemas e Arquitetura e Urbanismo.
-E acredito que fundindo minhas expertises, trago à vida soluções criativas e eficientes.
+E acredito que fundindo minhas expertises, trago à vida soluções criativas e eficientes.<br>
 🎨 Além do código, encontro inspiração na arte e no cinema, buscando integrar essas influências em cada projeto.
-Acredito na harmonia entre funcionalidade e estética.
+Acredito na harmonia entre funcionalidade e estética.<br>
 💻 Atualmente explorando o vasto universo da tecnologia, aberta a colaborações e
 ansiosa para conectar com outros entusiastas. Vamos juntos explorar novas fronteiras!</p>
 
