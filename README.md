@@ -3,7 +3,7 @@ Olá! bem-vindo ao meu perfil";
 
 class SobreMim extends Desenvolvedor {
   nome = "gabriela moreira";
-  area = "engenharia de software";
+  area = "Analise e Desenvolvimento de Sistemas";
   email = "artquilustra@gmail.com";
 }
 
