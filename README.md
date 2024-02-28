@@ -16,6 +16,8 @@ Minha paixão por arte e cinema se reflete sutilmente em meus projetos profissio
 transformando ideias em realidade com dedicação. Busc o constantemente aprender mais e<br>
 contribuir ativamente para soluções que não apenas resolvam problemas, mas também antecipem o futuro.<p>
 
+<h3> meu currócilo</h2>
+<a href="https://drive.google.com/drive/folders/1hZPhkdJ8az2b4F3ssCLxym3hnVEs-7yj?usp=sharing" target="_blank">Clique aqui para acessar o link</a>
 
 
 ```
