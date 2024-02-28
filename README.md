@@ -17,7 +17,7 @@ transformando ideias em realidade com dedicação. Busc o constantemente aprende
 contribuir ativamente para soluções que não apenas resolvam problemas, mas também antecipem o futuro.<p>
 
 <h2>meu currículo</h2>
-<a href="https://drive.google.com/drive/folders/1hZPhkdJ8az2b4F3ssCLxym3hnVEs-7yj?usp=sharing" target="_blank">Clique aqui para acessar o link</a>
+<a href="https://drive.google.com/drive/folders/1hZPhkdJ8az2b4F3ssCLxym3hnVEs-7yj?usp=sharing" target="_blank"></a>
 
 
 ```
