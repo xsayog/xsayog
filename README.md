@@ -7,10 +7,13 @@ class SobreMim extends Desenvolvedor {
   email = "artquilustra@gmail.com";
 }
 
-<p>🚀 Apaixonada por inovações tecnológicas e programação, meu coração pulsa tanto por Anlise e Desenvolvimento de Sistemas quanto em Arquitetura e Urbanismo.<br>
+<p>🚀 Apaixonada por inovações tecnológicas e programação, meu coração pulsa tanto por Anlise e Desenvolvimento de Sistemas
+quanto em Arquitetura e Urbanismo.<br>
 Fundindo minha expertise em ambas as áreas, trago à vida soluções criativas e eficientes.<br>
-🎨 Além do código, encontro inspiração na arte e no cinema, buscando integrar essas influências em cada linha de código e projeto. Acredito na harmonia entre funcionalidade e estética.<br>
-💻 Atualmente explorando o vasto universo da tecnologia, estou aberta a colaborações e ansiosa para conectar com outros entusiastas. Vamos juntos explorar novas fronteiras!<br></p>
+🎨 Além do código, encontro inspiração na arte e no cinema, buscando integrar essas influências em cada linha de código e projeto.
+Acredito na harmonia entre funcionalidade e estética.<br>
+💻 Atualmente explorando o vasto universo da tecnologia, estou aberta a colaborações e ansiosa para conectar com outros entusiastas.
+Vamos juntos explorar novas fronteiras!<br></p>
 
 
 ```
